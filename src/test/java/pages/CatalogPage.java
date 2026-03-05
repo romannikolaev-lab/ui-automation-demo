@@ -11,8 +11,6 @@ import java.time.Duration;
 public class CatalogPage {
     private final WebDriver driver;
 
-    private final By title = By.cssSelector("title");
-
     public CatalogPage(WebDriver driver) {
         this.driver = driver;
     }
