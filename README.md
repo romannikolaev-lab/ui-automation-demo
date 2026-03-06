@@ -1,6 +1,9 @@
 # UI Automation Demo Framework
 
-Demo UI automation framework built with Java, Selenium, TestNG and Allure.
+Demo UI test automation framework for the SauceDemo checkout flow.
+The project demonstrates a clean automation architecture using
+Page Object Model, Allure reporting, and automatic screenshot
+attachment on test failures
 
 
 ## Tech Stack
