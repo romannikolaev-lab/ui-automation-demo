@@ -33,4 +33,5 @@ allure serve target/allure-results
 
 ### Generate static report
 allure generate target/allure-results -o target/allure-report --clean
+
 allure open target/allure-report
